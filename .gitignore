@@ -1,3 +1,5 @@
 .venv
 dataset.csv
 __pycache__
+datasetmixte.csv
+data
