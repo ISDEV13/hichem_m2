@@ -8,7 +8,7 @@
 ## 📊 Contenu du projet
 
 ### Fichiers sources
-- **`dataset.csv`** : données brutes initiales (1000 lignes, 9 colonnes numériques)
+- **`dataset.csv`** : données brutes initiales 
 - **`app.py`** : script principal de nettoyage et visualisation
 - **`utils.py`** : fonction `remove_outliers_iqr()` pour détection/suppression outliers
 
